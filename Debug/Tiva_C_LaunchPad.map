@@ -1,0 +1,1133 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                              ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o (SysCtlPeripheralPresent)
+/home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                              ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o (UARTEnable)
+/home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+                              /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o) (CPUwfi)
+/home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                              /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o) (IntRegister)
+/usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_addsubdf3.o)
+                              ./src/main.o (__aeabi_dadd)
+/usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_muldivdf3.o)
+                              ./src/main.o (__aeabi_dmul)
+/usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_fixdfsi.o)
+                              ./src/main.o (__aeabi_d2iz)
+/usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_truncdfsf2.o)
+                              ./src/main.o (__aeabi_d2f)
+/usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (atexit)
+/usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atoi.o)
+                              ./src/main.o (atoi)
+/usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-exit.o)
+                              /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (exit)
+/usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-fini.o)
+                              /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (__libc_fini_array)
+/usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-impure.o)
+                              /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-exit.o) (_global_impure_ptr)
+/usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-init.o)
+                              /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (__libc_init_array)
+/usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-itoa.o)
+                              ./src/main.o (itoa)
+/usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-memset.o)
+                              /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (memset)
+/usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-rand.o)
+                              ./src/main.o (rand)
+/usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strcpy.o)
+                              ./src/main.o (strcpy)
+/usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strtok.o)
+                              ./src/main.o (strtok)
+/usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strtok_r.o)
+                              /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strtok.o) (__strtok_r)
+/usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strtol.o)
+                              /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atoi.o) (_strtol_r)
+/usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-utoa.o)
+                              /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-itoa.o) (__utoa)
+/usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atexit.o) (__register_exitproc)
+/usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__call_atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-exit.o) (__call_exitprocs)
+/usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-ctype_.o)
+                              /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strtol.o) (__ctype_ptr__)
+
+Allocating common symbols
+Common symbol       size              file
+
+UrunFiyatCins       0x19              ./src/main.o
+totalGiris          0x4               ./src/main.o
+ucret               0x4               ./src/main.o
+birlira             0x4               ./src/main.o
+UrunStok            0x14              ./src/main.o
+paraOtomat          0x4               ./src/main.o
+yirmibeskrs         0x4               ./src/main.o
+UrunID              0x14              ./src/main.o
+delay               0x4               ./src/main.o
+UrunAD              0x32              ./src/main.o
+UrunFiyat           0x28              ./src/main.o
+ellikrs             0x4               ./src/main.o
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crti.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crti.o
+ .text          0x0000000000000000       0xa4 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtbegin.o
+ .data          0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtbegin.o
+ .bss           0x0000000000000000       0x1c /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtbegin.o
+ .init_array    0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtbegin.o
+ .fini_array    0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtbegin.o
+ .eh_frame      0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtbegin.o
+ .jcr           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtbegin.o
+ .tm_clone_table
+                0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtbegin.o
+ .comment       0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtbegin.o
+ .ARM.attributes
+                0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtbegin.o
+ .text          0x0000000000000000       0x68 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .ARM.exidx     0x0000000000000000        0x8 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .debug_line    0x0000000000000000       0x7e /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .debug_info    0x0000000000000000       0xa5 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .debug_abbrev  0x0000000000000000       0x14 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .ARM.attributes
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .text          0x0000000000000000        0x0 ./src/main.o
+ .data          0x0000000000000000        0x0 ./src/main.o
+ .bss           0x0000000000000000        0x0 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/startup_gcc.o
+ .group         0x0000000000000000        0x8 ./src/startup_gcc.o
+ .group         0x0000000000000000        0x8 ./src/startup_gcc.o
+ .group         0x0000000000000000        0x8 ./src/startup_gcc.o
+ .group         0x0000000000000000        0x8 ./src/startup_gcc.o
+ .group         0x0000000000000000        0x8 ./src/startup_gcc.o
+ .group         0x0000000000000000        0x8 ./src/startup_gcc.o
+ .group         0x0000000000000000        0x8 ./src/startup_gcc.o
+ .group         0x0000000000000000        0x8 ./src/startup_gcc.o
+ .text          0x0000000000000000        0x0 ./src/startup_gcc.o
+ .data          0x0000000000000000        0x0 ./src/startup_gcc.o
+ .bss           0x0000000000000000        0x0 ./src/startup_gcc.o
+ .debug_macro   0x0000000000000000      0x880 ./src/startup_gcc.o
+ .debug_macro   0x0000000000000000       0x22 ./src/startup_gcc.o
+ .debug_macro   0x0000000000000000       0x87 ./src/startup_gcc.o
+ .debug_macro   0x0000000000000000       0x44 ./src/startup_gcc.o
+ .debug_macro   0x0000000000000000       0xfd ./src/startup_gcc.o
+ .debug_macro   0x0000000000000000       0x5e ./src/startup_gcc.o
+ .debug_macro   0x0000000000000000      0x1df ./src/startup_gcc.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .text          0x0000000000000000        0x0 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .data          0x0000000000000000        0x0 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .bss           0x0000000000000000        0x0 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .bss.g_ui32Base
+                0x0000000000000000        0x4 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .rodata        0x0000000000000000       0x26 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .rodata.g_pcHex
+                0x0000000000000000        0x4 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .rodata.g_ui32UARTBase
+                0x0000000000000000        0xc ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .rodata.g_ui32UARTPeriph
+                0x0000000000000000        0xc ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .text.UARTStdioConfig
+                0x0000000000000000       0x70 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .text.UARTwrite
+                0x0000000000000000       0x5c ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .text.UARTgets
+                0x0000000000000000       0xdc ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .text.UARTgetc
+                0x0000000000000000       0x1c ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .text.UARTvprintf
+                0x0000000000000000      0x400 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .text.UARTprintf
+                0x0000000000000000       0x24 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .bss.bLastWasCR.4544
+                0x0000000000000000        0x1 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_info    0x0000000000000000      0x38f ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_abbrev  0x0000000000000000      0x10e ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_aranges
+                0x0000000000000000       0x48 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_ranges  0x0000000000000000       0x38 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_macro   0x0000000000000000       0xd9 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_macro   0x0000000000000000      0x880 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_macro   0x0000000000000000       0x22 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_macro   0x0000000000000000       0x22 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_macro   0x0000000000000000       0x87 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_macro   0x0000000000000000       0x44 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_macro   0x0000000000000000       0xfd ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_macro   0x0000000000000000       0x5e ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_macro   0x0000000000000000      0x1df ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_macro   0x0000000000000000       0x58 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_macro   0x0000000000000000      0x946 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_macro   0x0000000000000000      0x25e ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_macro   0x0000000000000000       0x67 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_macro   0x0000000000000000      0x42a ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_macro   0x0000000000000000       0x10 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_macro   0x0000000000000000       0x10 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_macro   0x0000000000000000       0xdc ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_macro   0x0000000000000000     0x1816 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_macro   0x0000000000000000      0xa88 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_macro   0x0000000000000000      0x17a ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_line    0x0000000000000000      0x46d ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_str     0x0000000000000000    0x14922 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .comment       0x0000000000000000       0x2c ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_frame   0x0000000000000000       0xfc ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .ARM.attributes
+                0x0000000000000000       0x39 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .text          0x0000000000000000        0x0 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .data          0x0000000000000000        0x0 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .bss           0x0000000000000000        0x0 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text._SysCtlMemTimingGet
+                0x0000000000000000       0x24 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlSRAMSizeGet
+                0x0000000000000000       0x10 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlFlashSizeGet
+                0x0000000000000000       0x3c /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlFlashSectorSizeGet
+                0x0000000000000000       0x38 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralPresent
+                0x0000000000000000       0x26 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralReady
+                0x0000000000000000       0x26 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralPowerOn
+                0x0000000000000000       0x22 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralPowerOff
+                0x0000000000000000       0x22 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralReset
+                0x0000000000000000       0x3a /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralEnable
+                0x0000000000000000       0x22 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralDisable
+                0x0000000000000000       0x22 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralSleepEnable
+                0x0000000000000000       0x22 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralSleepDisable
+                0x0000000000000000       0x22 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralDeepSleepEnable
+                0x0000000000000000       0x22 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralDeepSleepDisable
+                0x0000000000000000       0x22 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralClockGating
+                0x0000000000000000       0x48 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlIntRegister
+                0x0000000000000000       0x14 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlIntUnregister
+                0x0000000000000000       0x12 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlIntEnable
+                0x0000000000000000       0x10 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlIntDisable
+                0x0000000000000000       0x10 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlIntClear
+                0x0000000000000000        0xc /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlIntStatus
+                0x0000000000000000       0x14 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlLDOSleepSet
+                0x0000000000000000        0xc /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlLDOSleepGet
+                0x0000000000000000        0xc /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlLDODeepSleepSet
+                0x0000000000000000        0xc /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlLDODeepSleepGet
+                0x0000000000000000        0xc /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlSleepPowerSet
+                0x0000000000000000        0xc /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlDeepSleepPowerSet
+                0x0000000000000000        0xc /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlReset
+                0x0000000000000000       0x10 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlSleep
+                0x0000000000000000        0x4 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlDeepSleep
+                0x0000000000000000       0x20 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlResetCauseGet
+                0x0000000000000000        0xc /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlResetCauseClear
+                0x0000000000000000       0x10 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlDelay
+                0x0000000000000000        0x8 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlMOSCConfigSet
+                0x0000000000000000        0xc /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPIOSCCalibrate
+                0x0000000000000000       0x48 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlResetBehaviorSet
+                0x0000000000000000        0xc /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlResetBehaviorGet
+                0x0000000000000000        0xc /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlClockFreqSet
+                0x0000000000000000      0x248 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlClockSet
+                0x0000000000000000      0x11c /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlClockGet
+                0x0000000000000000      0x12c /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlDeepSleepClockSet
+                0x0000000000000000        0xc /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlDeepSleepClockConfigSet
+                0x0000000000000000       0x60 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPWMClockSet
+                0x0000000000000000       0x14 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPWMClockGet
+                0x0000000000000000       0x18 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlGPIOAHBEnable
+                0x0000000000000000       0x18 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlGPIOAHBDisable
+                0x0000000000000000       0x1c /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlUSBPLLEnable
+                0x0000000000000000       0x10 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlUSBPLLDisable
+                0x0000000000000000       0x10 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlVoltageEventConfig
+                0x0000000000000000        0xc /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlVoltageEventStatus
+                0x0000000000000000        0xc /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlVoltageEventClear
+                0x0000000000000000       0x10 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlVCOGet
+                0x0000000000000000       0x78 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlNMIStatus
+                0x0000000000000000        0xc /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlNMIClear
+                0x0000000000000000       0x10 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlClockOutConfig
+                0x0000000000000000       0x10 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlAltClkConfig
+                0x0000000000000000        0xc /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .rodata.g_pppui32XTALtoVCO
+                0x0000000000000000      0x1b0 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .rodata.g_pui32VCOFrequencies
+                0x0000000000000000        0x8 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .rodata.g_sXTALtoMEMTIM
+                0x0000000000000000       0x30 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .rodata.g_pui32Xtals
+                0x0000000000000000       0x6c /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .comment       0x0000000000000000       0x71 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .ARM.attributes
+                0x0000000000000000       0x3b /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text          0x0000000000000000        0x0 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .data          0x0000000000000000        0x0 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .bss           0x0000000000000000        0x0 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text._UARTIntNumberGet
+                0x0000000000000000       0x44 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTParityModeSet
+                0x0000000000000000        0xc /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTParityModeGet
+                0x0000000000000000        0x8 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTFIFOLevelSet
+                0x0000000000000000        0x6 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTFIFOLevelGet
+                0x0000000000000000       0x10 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTConfigGetExpClk
+                0x0000000000000000       0x28 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTEnable
+                0x0000000000000000       0x16 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTDisable
+                0x0000000000000000       0x1c /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTConfigSetExpClk
+                0x0000000000000000       0x48 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTFIFOEnable
+                0x0000000000000000        0xa /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTFIFODisable
+                0x0000000000000000        0xa /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTEnableSIR
+                0x0000000000000000       0x12 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTDisableSIR
+                0x0000000000000000        0xa /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTSmartCardEnable
+                0x0000000000000000       0x16 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTSmartCardDisable
+                0x0000000000000000        0xa /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTModemControlSet
+                0x0000000000000000        0xc /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTModemControlClear
+                0x0000000000000000        0xe /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTModemControlGet
+                0x0000000000000000        0x8 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTModemStatusGet
+                0x0000000000000000        0xa /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTFlowControlSet
+                0x0000000000000000        0xc /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTFlowControlGet
+                0x0000000000000000        0x8 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTTxIntModeSet
+                0x0000000000000000        0xc /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTTxIntModeGet
+                0x0000000000000000        0x8 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTCharsAvail
+                0x0000000000000000        0xc /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTSpaceAvail
+                0x0000000000000000        0xc /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTCharGetNonBlocking
+                0x0000000000000000        0xe /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTCharGet
+                0x0000000000000000        0xa /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTCharPutNonBlocking
+                0x0000000000000000       0x10 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTCharPut
+                0x0000000000000000        0xa /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTBreakCtl
+                0x0000000000000000       0x16 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTBusy
+                0x0000000000000000        0x8 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTIntRegister
+                0x0000000000000000       0x1a /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTIntUnregister
+                0x0000000000000000       0x16 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTIntEnable
+                0x0000000000000000        0x8 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTIntDisable
+                0x0000000000000000        0xa /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTIntStatus
+                0x0000000000000000        0xa /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTIntClear
+                0x0000000000000000        0x4 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTDMAEnable
+                0x0000000000000000        0x8 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTDMADisable
+                0x0000000000000000        0xa /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTRxErrorGet
+                0x0000000000000000        0x8 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTRxErrorClear
+                0x0000000000000000        0x6 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTClockSourceSet
+                0x0000000000000000        0x6 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTClockSourceGet
+                0x0000000000000000        0x6 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UART9BitEnable
+                0x0000000000000000        0xe /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UART9BitDisable
+                0x0000000000000000        0xe /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UART9BitAddrSet
+                0x0000000000000000        0xa /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UART9BitAddrSend
+                0x0000000000000000       0x2c /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTLoopbackEnable
+                0x0000000000000000        0xa /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .rodata.g_ppui32UARTIntMap
+                0x0000000000000000       0x40 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .rodata.g_ppui32UARTIntMapSnowflake
+                0x0000000000000000       0x40 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .comment       0x0000000000000000       0x71 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .ARM.attributes
+                0x0000000000000000       0x3b /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text          0x0000000000000000        0x0 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .data          0x0000000000000000        0x0 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .bss           0x0000000000000000        0x0 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .text.CPUcpsid
+                0x0000000000000000        0x8 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .text.CPUprimask
+                0x0000000000000000        0x6 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .text.CPUcpsie
+                0x0000000000000000        0x8 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .text.CPUwfi   0x0000000000000000        0x4 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .text.CPUbasepriSet
+                0x0000000000000000        0x6 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .text.CPUbasepriGet
+                0x0000000000000000        0x6 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .comment       0x0000000000000000       0x71 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .ARM.attributes
+                0x0000000000000000       0x3b /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .text          0x0000000000000000        0x0 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .data          0x0000000000000000        0x0 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .bss           0x0000000000000000        0x0 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text._IntDefaultHandler
+                0x0000000000000000        0x2 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntMasterEnable
+                0x0000000000000000        0xe /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntMasterDisable
+                0x0000000000000000        0xe /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntRegister
+                0x0000000000000000       0x34 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntUnregister
+                0x0000000000000000       0x14 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntPriorityGroupingSet
+                0x0000000000000000       0x1c /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntPriorityGroupingGet
+                0x0000000000000000       0x24 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntPrioritySet
+                0x0000000000000000       0x2c /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntPriorityGet
+                0x0000000000000000       0x1c /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntEnable
+                0x0000000000000000       0x60 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntDisable
+                0x0000000000000000       0x60 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntIsEnabled
+                0x0000000000000000       0x64 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntPendSet
+                0x0000000000000000       0x50 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntPendClear
+                0x0000000000000000       0x40 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntPriorityMaskSet
+                0x0000000000000000        0x4 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntPriorityMaskGet
+                0x0000000000000000        0x4 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntTrigger
+                0x0000000000000000        0xc /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pui32Priority
+                0x0000000000000000       0x20 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pui32Dii16Regs
+                0x0000000000000000       0x14 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pui32PendRegs
+                0x0000000000000000       0x14 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ vtable         0x0000000000000000      0x400 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pui32Regs
+                0x0000000000000000       0x9c /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pui32EnRegs
+                0x0000000000000000       0x14 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pui32UnpendRegs
+                0x0000000000000000       0x14 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .comment       0x0000000000000000       0x71 /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .ARM.attributes
+                0x0000000000000000       0x3b /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_addsubdf3.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_muldivdf3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_muldivdf3.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_fixdfsi.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_fixdfsi.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_truncdfsf2.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_truncdfsf2.o)
+ .text          0x0000000000000000        0xc /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atexit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atexit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atexit.o)
+ .debug_info    0x0000000000000000       0xfe /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atexit.o)
+ .debug_abbrev  0x0000000000000000       0xaa /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atexit.o)
+ .debug_loc     0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atexit.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atexit.o)
+ .debug_line    0x0000000000000000       0xb8 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atexit.o)
+ .debug_str     0x0000000000000000      0x21a /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atexit.o)
+ .comment       0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atexit.o)
+ .debug_frame   0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atexit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atoi.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atoi.o)
+ .text          0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-exit.o)
+ .debug_info    0x0000000000000000      0x8de /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-exit.o)
+ .debug_abbrev  0x0000000000000000      0x1d6 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-exit.o)
+ .debug_loc     0x0000000000000000       0x1e /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-exit.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-exit.o)
+ .debug_line    0x0000000000000000      0x162 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-exit.o)
+ .debug_str     0x0000000000000000      0x5b7 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-exit.o)
+ .comment       0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000000       0x28 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-exit.o)
+ .text          0x0000000000000000       0x28 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-fini.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-fini.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-fini.o)
+ .debug_info    0x0000000000000000       0xfa /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-fini.o)
+ .debug_abbrev  0x0000000000000000       0xbd /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-fini.o)
+ .debug_loc     0x0000000000000000       0x5c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-fini.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-fini.o)
+ .debug_line    0x0000000000000000       0x9f /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-fini.o)
+ .debug_str     0x0000000000000000      0x212 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-fini.o)
+ .comment       0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-fini.o)
+ .debug_frame   0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-fini.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-fini.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-impure.o)
+ .rodata        0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-impure.o)
+ .text          0x0000000000000000       0x50 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-init.o)
+ .debug_info    0x0000000000000000      0x110 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-init.o)
+ .debug_abbrev  0x0000000000000000       0xba /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-init.o)
+ .debug_loc     0x0000000000000000       0xae /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-init.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-init.o)
+ .debug_line    0x0000000000000000       0xb8 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-init.o)
+ .debug_str     0x0000000000000000      0x23c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-init.o)
+ .comment       0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-init.o)
+ .debug_frame   0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-itoa.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-itoa.o)
+ .text          0x0000000000000000       0x9c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-memset.o)
+ .debug_info    0x0000000000000000      0x11e /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-memset.o)
+ .debug_abbrev  0x0000000000000000       0x9f /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-memset.o)
+ .debug_loc     0x0000000000000000      0x1ae /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-memset.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-memset.o)
+ .debug_line    0x0000000000000000      0x111 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-memset.o)
+ .debug_str     0x0000000000000000      0x1f1 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-memset.o)
+ .comment       0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-rand.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-rand.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strcpy.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strcpy.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strtok.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strtok.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strtok_r.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strtok_r.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strtol.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strtol.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-utoa.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-utoa.o)
+ .text          0x0000000000000000       0xa4 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__atexit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__atexit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__atexit.o)
+ .debug_info    0x0000000000000000      0x92e /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__atexit.o)
+ .debug_abbrev  0x0000000000000000      0x20f /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__atexit.o)
+ .debug_loc     0x0000000000000000      0x197 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__atexit.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__atexit.o)
+ .debug_line    0x0000000000000000      0x184 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__atexit.o)
+ .debug_str     0x0000000000000000      0x5ef /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__atexit.o)
+ .comment       0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__atexit.o)
+ .debug_frame   0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__atexit.o)
+ .text          0x0000000000000000       0xd8 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__call_atexit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__call_atexit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__call_atexit.o)
+ .text.startup  0x0000000000000000       0x14 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__call_atexit.o)
+ .init_array.00000
+                0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__call_atexit.o)
+ .debug_info    0x0000000000000000      0x9a5 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__call_atexit.o)
+ .debug_abbrev  0x0000000000000000      0x270 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__call_atexit.o)
+ .debug_loc     0x0000000000000000      0x17b /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__call_atexit.o)
+ .debug_aranges
+                0x0000000000000000       0x28 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__call_atexit.o)
+ .debug_ranges  0x0000000000000000       0x38 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__call_atexit.o)
+ .debug_line    0x0000000000000000      0x1b0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__call_atexit.o)
+ .debug_str     0x0000000000000000      0x60e /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__call_atexit.o)
+ .comment       0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__call_atexit.o)
+ .debug_frame   0x0000000000000000       0x50 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__call_atexit.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-ctype_.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-ctype_.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtend.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtend.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtend.o
+ .jcr           0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtend.o
+ .tm_clone_table
+                0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtend.o
+ .comment       0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtend.o
+ .ARM.attributes
+                0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtend.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtn.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000000000000 0x0000000000040000 xr
+SRAM             0x0000000020000000 0x0000000000008000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crti.o
+LOAD /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtbegin.o
+LOAD /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+LOAD ./src/main.o
+LOAD ./src/startup_gcc.o
+LOAD ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+LOAD /home/student/eclipse-workspace/Tiva_C_LaunchPad/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a
+START GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a
+LOAD /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a
+LOAD /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a
+END GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtend.o
+LOAD /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtn.o
+
+.text           0x0000000000000000     0x302c
+                0x0000000000000000                _text = .
+ *(.isr_vector)
+ .isr_vector    0x0000000000000000      0x26c ./src/startup_gcc.o
+                0x0000000000000000                g_pfnVectors
+ *(.text*)
+ .text.aktif    0x000000000000026c      0x18c ./src/main.o
+                0x000000000000026c                aktif
+ .text.LCDayar  0x00000000000003f8       0x90 ./src/main.o
+                0x00000000000003f8                LCDayar
+ .text.LCDveri  0x0000000000000488       0x84 ./src/main.o
+                0x0000000000000488                LCDveri
+ .text.LCDaktif
+                0x000000000000050c       0xa0 ./src/main.o
+                0x000000000000050c                LCDaktif
+ .text.LCDyaz   0x00000000000005ac       0x50 ./src/main.o
+                0x00000000000005ac                LCDyaz
+ .text.parsing  0x00000000000005fc      0x284 ./src/main.o
+                0x00000000000005fc                parsing
+ .text.paracoz  0x0000000000000880      0x228 ./src/main.o
+                0x0000000000000880                paracoz
+ .text.stokKontrol
+                0x0000000000000aa8      0x1ac ./src/main.o
+                0x0000000000000aa8                stokKontrol
+ .text.paraUstu
+                0x0000000000000c54      0x600 ./src/main.o
+                0x0000000000000c54                paraUstu
+ .text.otomatCalistir
+                0x0000000000001254      0xe48 ./src/main.o
+                0x0000000000001254                otomatCalistir
+ .text.main     0x000000000000209c       0x10 ./src/main.o
+                0x000000000000209c                main
+ .text.ResetISR
+                0x00000000000020ac       0x6c ./src/startup_gcc.o
+                0x00000000000020ac                ResetISR
+ .text.NmiSR    0x0000000000002118        0x8 ./src/startup_gcc.o
+ .text.FaultISR
+                0x0000000000002120        0x8 ./src/startup_gcc.o
+ .text.IntDefaultHandler
+                0x0000000000002128        0x8 ./src/startup_gcc.o
+ .text          0x0000000000002130      0x370 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_addsubdf3.o)
+                0x0000000000002130                __aeabi_drsub
+                0x0000000000002138                __aeabi_dsub
+                0x0000000000002138                __subdf3
+                0x000000000000213c                __adddf3
+                0x000000000000213c                __aeabi_dadd
+                0x00000000000023b4                __aeabi_ui2d
+                0x00000000000023b4                __floatunsidf
+                0x00000000000023d4                __floatsidf
+                0x00000000000023d4                __aeabi_i2d
+                0x00000000000023f8                __extendsfdf2
+                0x00000000000023f8                __aeabi_f2d
+                0x0000000000002434                __aeabi_ul2d
+                0x0000000000002434                __floatundidf
+                0x0000000000002444                __floatdidf
+                0x0000000000002444                __aeabi_l2d
+ .text          0x00000000000024a0      0x424 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_muldivdf3.o)
+                0x00000000000024a0                __aeabi_dmul
+                0x00000000000024a0                __muldf3
+                0x00000000000026f4                __aeabi_ddiv
+                0x00000000000026f4                __divdf3
+ .text          0x00000000000028c4       0x50 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_fixdfsi.o)
+                0x00000000000028c4                __fixdfsi
+                0x00000000000028c4                __aeabi_d2iz
+ .text          0x0000000000002914       0xa0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_truncdfsf2.o)
+                0x0000000000002914                __aeabi_d2f
+                0x0000000000002914                __truncdfsf2
+ .text          0x00000000000029b4       0x10 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atoi.o)
+                0x00000000000029b4                atoi
+                0x00000000000029bc                _atoi_r
+ .text          0x00000000000029c4       0x34 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-itoa.o)
+                0x00000000000029c4                __itoa
+                0x00000000000029f4                itoa
+ .text          0x00000000000029f8       0x54 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-rand.o)
+                0x00000000000029f8                srand
+                0x0000000000002a0c                rand
+ .text          0x0000000000002a4c       0xbc /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strcpy.o)
+                0x0000000000002a4c                strcpy
+ .text          0x0000000000002b08       0x10 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strtok.o)
+                0x0000000000002b08                strtok
+ .text          0x0000000000002b18       0x6c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strtok_r.o)
+                0x0000000000002b18                __strtok_r
+                0x0000000000002b7c                strtok_r
+ .text          0x0000000000002b84      0x140 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strtol.o)
+                0x0000000000002b84                _strtol_r
+                0x0000000000002cac                strtol
+ .text          0x0000000000002cc4       0x84 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-utoa.o)
+                0x0000000000002cc4                __utoa
+                0x0000000000002d44                utoa
+ *(.rodata*)
+ .rodata        0x0000000000002d48      0x19a ./src/main.o
+ *fill*         0x0000000000002ee2        0x2 
+ .rodata.str1.4
+                0x0000000000002ee4        0x2 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-impure.o)
+ *fill*         0x0000000000002ee6        0x2 
+ .rodata.str1.4
+                0x0000000000002ee8       0x28 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-utoa.o)
+                                         0x25 (size before relaxing)
+ .rodata        0x0000000000002f10      0x101 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-ctype_.o)
+                0x0000000000002f10                _ctype_
+ *(.init)
+ *fill*         0x0000000000003011        0x3 
+ .init          0x0000000000003014        0x4 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crti.o
+                0x0000000000003014                _init
+ .init          0x0000000000003018        0x8 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtn.o
+ *(.fini)
+ .fini          0x0000000000003020        0x4 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crti.o
+                0x0000000000003020                _fini
+ .fini          0x0000000000003024        0x8 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtn.o
+                0x000000000000302c                _etext = .
+
+.glue_7         0x000000000000302c        0x0
+ .glue_7        0x000000000000302c        0x0 linker stubs
+
+.glue_7t        0x000000000000302c        0x0
+ .glue_7t       0x000000000000302c        0x0 linker stubs
+
+.vfp11_veneer   0x000000000000302c        0x0
+ .vfp11_veneer  0x000000000000302c        0x0 linker stubs
+
+.v4_bx          0x000000000000302c        0x0
+ .v4_bx         0x000000000000302c        0x0 linker stubs
+
+.iplt           0x000000000000302c        0x0
+ .iplt          0x000000000000302c        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtbegin.o
+
+.rel.dyn        0x000000000000302c        0x0
+ .rel.iplt      0x000000000000302c        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtbegin.o
+
+.data           0x0000000020000000      0x8e4 load address 0x000000000000302c
+                0x0000000020000000                _data = .
+                0x000000000000302c                _ldata = LOADADDR (.data)
+ *(vtable)
+ *(.data*)
+ .data.otomat   0x0000000020000000      0x4b0 ./src/main.o
+                0x0000000020000000                otomat
+ .data          0x00000000200004b0      0x430 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-impure.o)
+                0x00000000200004b0                _impure_ptr
+ .data          0x00000000200008e0        0x4 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-ctype_.o)
+                0x00000000200008e0                __ctype_ptr__
+                0x00000000200008e4                _edata = .
+
+.igot.plt       0x00000000200008e4        0x0 load address 0x0000000000003910
+ .igot.plt      0x00000000200008e4        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtbegin.o
+
+.bss            0x00000000200008e8      0x1dc load address 0x0000000000003918
+                0x00000000200008e8                _bss = .
+ *(.bss*)
+ .bss.btYirmiBesK
+                0x00000000200008e8        0x4 ./src/main.o
+                0x00000000200008e8                btYirmiBesK
+ .bss.btElliK   0x00000000200008ec        0x4 ./src/main.o
+                0x00000000200008ec                btElliK
+ .bss.btBirL    0x00000000200008f0        0x4 ./src/main.o
+                0x00000000200008f0                btBirL
+ .bss.su        0x00000000200008f4        0x4 ./src/main.o
+                0x00000000200008f4                su
+ .bss.biskuvi   0x00000000200008f8        0x4 ./src/main.o
+                0x00000000200008f8                biskuvi
+ .bss.cikolata  0x00000000200008fc        0x4 ./src/main.o
+                0x00000000200008fc                cikolata
+ .bss.cay       0x0000000020000900        0x4 ./src/main.o
+                0x0000000020000900                cay
+ .bss.kahve     0x0000000020000904        0x4 ./src/main.o
+                0x0000000020000904                kahve
+ .bss.pui32Stack
+                0x0000000020000908      0x100 ./src/startup_gcc.o
+ *(COMMON)
+ COMMON         0x0000000020000a08       0xbc ./src/main.o
+                0x0000000020000a08                UrunFiyatCins
+                0x0000000020000a24                totalGiris
+                0x0000000020000a28                ucret
+                0x0000000020000a2c                birlira
+                0x0000000020000a30                UrunStok
+                0x0000000020000a44                paraOtomat
+                0x0000000020000a48                yirmibeskrs
+                0x0000000020000a4c                UrunID
+                0x0000000020000a60                delay
+                0x0000000020000a64                UrunAD
+                0x0000000020000a98                UrunFiyat
+                0x0000000020000ac0                ellikrs
+                0x0000000020000ac4                _ebss = .
+OUTPUT(Tiva_C_LaunchPad.elf elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x30
+ .ARM.attributes
+                0x0000000000000000       0x22 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crti.o
+ .ARM.attributes
+                0x0000000000000022       0x39 ./src/main.o
+ .ARM.attributes
+                0x000000000000005b       0x39 ./src/startup_gcc.o
+ .ARM.attributes
+                0x0000000000000094       0x22 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000000000000b6       0x22 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x00000000000000d8       0x22 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x00000000000000fa       0x22 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_truncdfsf2.o)
+ .ARM.attributes
+                0x000000000000011c       0x34 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atoi.o)
+ .ARM.attributes
+                0x0000000000000150       0x34 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000184       0x34 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-itoa.o)
+ .ARM.attributes
+                0x00000000000001b8       0x34 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-rand.o)
+ .ARM.attributes
+                0x00000000000001ec       0x34 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strcpy.o)
+ .ARM.attributes
+                0x0000000000000220       0x34 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strtok.o)
+ .ARM.attributes
+                0x0000000000000254       0x34 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strtok_r.o)
+ .ARM.attributes
+                0x0000000000000288       0x34 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strtol.o)
+ .ARM.attributes
+                0x00000000000002bc       0x34 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-utoa.o)
+ .ARM.attributes
+                0x00000000000002f0       0x34 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-ctype_.o)
+ .ARM.attributes
+                0x0000000000000324       0x22 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtn.o
+
+.comment        0x0000000000000000       0x2b
+ .comment       0x0000000000000000       0x2b ./src/main.o
+                                         0x2c (size before relaxing)
+ .comment       0x000000000000002b       0x2c ./src/startup_gcc.o
+ .comment       0x000000000000002b       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atoi.o)
+ .comment       0x000000000000002b       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-impure.o)
+ .comment       0x000000000000002b       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-itoa.o)
+ .comment       0x000000000000002b       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-rand.o)
+ .comment       0x000000000000002b       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strcpy.o)
+ .comment       0x000000000000002b       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strtok.o)
+ .comment       0x000000000000002b       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strtok_r.o)
+ .comment       0x000000000000002b       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strtol.o)
+ .comment       0x000000000000002b       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-utoa.o)
+ .comment       0x000000000000002b       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-ctype_.o)
+
+.debug_info     0x0000000000000000     0x3d5a
+ .debug_info    0x0000000000000000      0x5ac ./src/main.o
+ .debug_info    0x00000000000005ac      0x172 ./src/startup_gcc.o
+ .debug_info    0x000000000000071e       0xc2 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_addsubdf3.o)
+ .debug_info    0x00000000000007e0       0xc2 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_muldivdf3.o)
+ .debug_info    0x00000000000008a2       0xc2 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_fixdfsi.o)
+ .debug_info    0x0000000000000964       0xc2 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_truncdfsf2.o)
+ .debug_info    0x0000000000000a26      0x919 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atoi.o)
+ .debug_info    0x000000000000133f      0x89b /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-impure.o)
+ .debug_info    0x0000000000001bda      0x164 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-itoa.o)
+ .debug_info    0x0000000000001d3e      0x8ce /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-rand.o)
+ .debug_info    0x000000000000260c       0xc4 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strcpy.o)
+ .debug_info    0x00000000000026d0      0x8ec /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strtok.o)
+ .debug_info    0x0000000000002fbc      0x19c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strtok_r.o)
+ .debug_info    0x0000000000003158      0x9b8 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strtol.o)
+ .debug_info    0x0000000000003b10      0x18e /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-utoa.o)
+ .debug_info    0x0000000000003c9e       0xbc /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-ctype_.o)
+
+.debug_abbrev   0x0000000000000000      0xf53
+ .debug_abbrev  0x0000000000000000      0x1d3 ./src/main.o
+ .debug_abbrev  0x00000000000001d3       0xd3 ./src/startup_gcc.o
+ .debug_abbrev  0x00000000000002a6       0x14 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_addsubdf3.o)
+ .debug_abbrev  0x00000000000002ba       0x14 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_muldivdf3.o)
+ .debug_abbrev  0x00000000000002ce       0x14 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_fixdfsi.o)
+ .debug_abbrev  0x00000000000002e2       0x14 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_truncdfsf2.o)
+ .debug_abbrev  0x00000000000002f6      0x1ba /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atoi.o)
+ .debug_abbrev  0x00000000000004b0      0x180 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-impure.o)
+ .debug_abbrev  0x0000000000000630       0xc1 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-itoa.o)
+ .debug_abbrev  0x00000000000006f1      0x1d8 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-rand.o)
+ .debug_abbrev  0x00000000000008c9       0x72 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strcpy.o)
+ .debug_abbrev  0x000000000000093b      0x1f0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strtok.o)
+ .debug_abbrev  0x0000000000000b2b       0xda /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strtok_r.o)
+ .debug_abbrev  0x0000000000000c05      0x20e /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strtol.o)
+ .debug_abbrev  0x0000000000000e13       0xe7 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-utoa.o)
+ .debug_abbrev  0x0000000000000efa       0x59 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-ctype_.o)
+
+.debug_aranges  0x0000000000000000      0x258
+ .debug_aranges
+                0x0000000000000000       0x70 ./src/main.o
+ .debug_aranges
+                0x0000000000000070       0x38 ./src/startup_gcc.o
+ .debug_aranges
+                0x00000000000000a8       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_addsubdf3.o)
+ .debug_aranges
+                0x00000000000000c8       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_muldivdf3.o)
+ .debug_aranges
+                0x00000000000000e8       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_fixdfsi.o)
+ .debug_aranges
+                0x0000000000000108       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_truncdfsf2.o)
+ .debug_aranges
+                0x0000000000000128       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atoi.o)
+ .debug_aranges
+                0x0000000000000148       0x18 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-impure.o)
+ .debug_aranges
+                0x0000000000000160       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-itoa.o)
+ .debug_aranges
+                0x0000000000000180       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-rand.o)
+ .debug_aranges
+                0x00000000000001a0       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strcpy.o)
+ .debug_aranges
+                0x00000000000001c0       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strtok.o)
+ .debug_aranges
+                0x00000000000001e0       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strtok_r.o)
+ .debug_aranges
+                0x0000000000000200       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strtol.o)
+ .debug_aranges
+                0x0000000000000220       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-utoa.o)
+ .debug_aranges
+                0x0000000000000240       0x18 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-ctype_.o)
+
+.debug_ranges   0x0000000000000000       0xb0
+ .debug_ranges  0x0000000000000000       0x78 ./src/main.o
+ .debug_ranges  0x0000000000000078       0x28 ./src/startup_gcc.o
+ .debug_ranges  0x00000000000000a0       0x10 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strcpy.o)
+
+.debug_macro    0x0000000000000000     0xe518
+ .debug_macro   0x0000000000000000      0x22e ./src/main.o
+ .debug_macro   0x000000000000022e      0x880 ./src/main.o
+ .debug_macro   0x0000000000000aae       0x22 ./src/main.o
+ .debug_macro   0x0000000000000ad0       0x87 ./src/main.o
+ .debug_macro   0x0000000000000b57       0x44 ./src/main.o
+ .debug_macro   0x0000000000000b9b       0xfd ./src/main.o
+ .debug_macro   0x0000000000000c98       0x5e ./src/main.o
+ .debug_macro   0x0000000000000cf6      0x1df ./src/main.o
+ .debug_macro   0x0000000000000ed5       0x52 ./src/main.o
+ .debug_macro   0x0000000000000f27       0x35 ./src/main.o
+ .debug_macro   0x0000000000000f5c       0x9c ./src/main.o
+ .debug_macro   0x0000000000000ff8       0x16 ./src/main.o
+ .debug_macro   0x000000000000100e      0x10e ./src/main.o
+ .debug_macro   0x000000000000111c       0x8d ./src/main.o
+ .debug_macro   0x00000000000011a9       0x52 ./src/main.o
+ .debug_macro   0x00000000000011fb       0x1f ./src/main.o
+ .debug_macro   0x000000000000121a       0x43 ./src/main.o
+ .debug_macro   0x000000000000125d       0x20 ./src/main.o
+ .debug_macro   0x000000000000127d      0x187 ./src/main.o
+ .debug_macro   0x0000000000001404      0x30d ./src/main.o
+ .debug_macro   0x0000000000001711       0x16 ./src/main.o
+ .debug_macro   0x0000000000001727       0x29 ./src/main.o
+ .debug_macro   0x0000000000001750       0x22 ./src/main.o
+ .debug_macro   0x0000000000001772       0x16 ./src/main.o
+ .debug_macro   0x0000000000001788       0x35 ./src/main.o
+ .debug_macro   0x00000000000017bd       0x10 ./src/main.o
+ .debug_macro   0x00000000000017cd       0x10 ./src/main.o
+ .debug_macro   0x00000000000017dd       0x10 ./src/main.o
+ .debug_macro   0x00000000000017ed       0x1c ./src/main.o
+ .debug_macro   0x0000000000001809       0x52 ./src/main.o
+ .debug_macro   0x000000000000185b       0x40 ./src/main.o
+ .debug_macro   0x000000000000189b       0x10 ./src/main.o
+ .debug_macro   0x00000000000018ab       0x40 ./src/main.o
+ .debug_macro   0x00000000000018eb       0xd7 ./src/main.o
+ .debug_macro   0x00000000000019c2       0x35 ./src/main.o
+ .debug_macro   0x00000000000019f7       0x1c ./src/main.o
+ .debug_macro   0x0000000000001a13       0x10 ./src/main.o
+ .debug_macro   0x0000000000001a23       0x16 ./src/main.o
+ .debug_macro   0x0000000000001a39      0x189 ./src/main.o
+ .debug_macro   0x0000000000001bc2       0x16 ./src/main.o
+ .debug_macro   0x0000000000001bd8     0xb522 ./src/main.o
+ .debug_macro   0x000000000000d0fa       0x75 ./src/startup_gcc.o
+ .debug_macro   0x000000000000d16f     0x1342 ./src/startup_gcc.o
+ .debug_macro   0x000000000000e4b1       0x67 ./src/startup_gcc.o
+
+.debug_line     0x0000000000000000     0x1a1b
+ .debug_line    0x0000000000000000      0x9d2 ./src/main.o
+ .debug_line    0x00000000000009d2      0x1d8 ./src/startup_gcc.o
+ .debug_line    0x0000000000000baa      0x179 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_addsubdf3.o)
+ .debug_line    0x0000000000000d23      0x19d /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_muldivdf3.o)
+ .debug_line    0x0000000000000ec0       0x7a /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_fixdfsi.o)
+ .debug_line    0x0000000000000f3a       0x8e /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_truncdfsf2.o)
+ .debug_line    0x0000000000000fc8      0x146 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atoi.o)
+ .debug_line    0x000000000000110e       0xe9 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-impure.o)
+ .debug_line    0x00000000000011f7       0xc6 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-itoa.o)
+ .debug_line    0x00000000000012bd      0x14d /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-rand.o)
+ .debug_line    0x000000000000140a       0xb4 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strcpy.o)
+ .debug_line    0x00000000000014be      0x147 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strtok.o)
+ .debug_line    0x0000000000001605       0xe7 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strtok_r.o)
+ .debug_line    0x00000000000016ec      0x1ca /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strtol.o)
+ .debug_line    0x00000000000018b6       0xfe /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-utoa.o)
+ .debug_line    0x00000000000019b4       0x67 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-ctype_.o)
+
+.debug_str      0x0000000000000000    0x4205f
+ .debug_str     0x0000000000000000    0x402f9 ./src/main.o
+                                      0x4050b (size before relaxing)
+ .debug_str     0x00000000000402f9     0x1499 ./src/startup_gcc.o
+                                       0x8729 (size before relaxing)
+ .debug_str     0x0000000000041792      0x4e9 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atoi.o)
+                                        0x5a1 (size before relaxing)
+ .debug_str     0x0000000000041c7b       0x9a /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-impure.o)
+                                        0x5ae (size before relaxing)
+ .debug_str     0x0000000000041d15       0x44 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-itoa.o)
+                                        0x1f2 (size before relaxing)
+ .debug_str     0x0000000000041d59       0x35 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-rand.o)
+                                        0x5a5 (size before relaxing)
+ .debug_str     0x0000000000041d8e       0xa4 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strcpy.o)
+                                        0x1e3 (size before relaxing)
+ .debug_str     0x0000000000041e32       0xa2 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strtok.o)
+                                        0x5af (size before relaxing)
+ .debug_str     0x0000000000041ed4       0x57 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strtok_r.o)
+                                        0x20f (size before relaxing)
+ .debug_str     0x0000000000041f2b       0x5e /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strtol.o)
+                                        0x5d4 (size before relaxing)
+ .debug_str     0x0000000000041f89       0x40 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-utoa.o)
+                                        0x1f5 (size before relaxing)
+ .debug_str     0x0000000000041fc9       0x96 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-ctype_.o)
+                                        0x1e3 (size before relaxing)
+
+.debug_frame    0x0000000000000000      0x3f4
+ .debug_frame   0x0000000000000000      0x1a8 ./src/main.o
+ .debug_frame   0x00000000000001a8       0x7c ./src/startup_gcc.o
+ .debug_frame   0x0000000000000224       0x30 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atoi.o)
+ .debug_frame   0x0000000000000254       0x3c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-itoa.o)
+ .debug_frame   0x0000000000000290       0x3c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-rand.o)
+ .debug_frame   0x00000000000002cc       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strcpy.o)
+ .debug_frame   0x00000000000002ec       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strtok.o)
+ .debug_frame   0x000000000000030c       0x48 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strtok_r.o)
+ .debug_frame   0x0000000000000354       0x54 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strtol.o)
+ .debug_frame   0x00000000000003a8       0x4c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-utoa.o)
+
+.debug_loc      0x0000000000000000      0x9c0
+ .debug_loc     0x0000000000000000       0x63 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atoi.o)
+ .debug_loc     0x0000000000000063      0x161 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-itoa.o)
+ .debug_loc     0x00000000000001c4       0x1f /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-rand.o)
+ .debug_loc     0x00000000000001e3       0x21 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strcpy.o)
+ .debug_loc     0x0000000000000204       0x61 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strtok.o)
+ .debug_loc     0x0000000000000265      0x257 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strtok_r.o)
+ .debug_loc     0x00000000000004bc      0x350 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strtol.o)
+ .debug_loc     0x000000000000080c      0x1b4 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-utoa.o)
